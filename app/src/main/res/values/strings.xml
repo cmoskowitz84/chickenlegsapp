@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chicken Legs</string>
+    <string name="dumbbell">Dumbbell</string>
+    <string name="scale">Scale</string>
+    <string name="workout">Workout</string>
+    <string name="chicken_legs">Chicken Legs</string>
+    <string name="weight">Weight</string>
+    <string name="workout_button_dumbbells">Workout Button Dumbbells</string>
+    <string name="weight_button_scale">Weight Button Scale</string>
+    <string name="logo_image">Logo Image</string>
+</resources>
